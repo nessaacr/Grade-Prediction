@@ -49,7 +49,7 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
